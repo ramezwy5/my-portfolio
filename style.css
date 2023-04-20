@@ -164,3 +164,8 @@ img{
 .card:hover .code-link, .card:hover .site-link{
     opacity: 1;
 }
+
+footer .nav-link:hover i{
+    font-size: 1.5rem;
+    color: var(--background);
+}
