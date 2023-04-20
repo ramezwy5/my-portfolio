@@ -169,3 +169,7 @@ footer .nav-link:hover i{
     font-size: 1.5rem;
     color: var(--background);
 }
+
+.copyright{
+    margin-top: 3%;
+}
