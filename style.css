@@ -21,7 +21,7 @@ section:not(:last-of-type){
     font-family: 'tgl_0-16regular';
     margin-block: 10rem;
     padding-block: 3rem;
-    scroll-margin-block-start: 3.5rem;
+    scroll-margin-block-start: 3.75rem;
 }
 
 span.logo{
