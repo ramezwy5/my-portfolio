@@ -21,6 +21,7 @@ section:not(:last-of-type){
     font-family: 'tgl_0-16regular';
     margin-block: 10rem;
     padding-block: 3rem;
+    scroll-margin-block-start: 3.5rem;
 }
 
 span.logo{
@@ -159,7 +160,9 @@ img{
 .project .site-link{
     left: 50%;
 }
-
+.card{
+    height: 100%;
+}
 .card:hover .code-link, .card:hover .site-link{
     opacity: 1;
 }
