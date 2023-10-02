@@ -40,7 +40,7 @@ span.logo{
     background: linear-gradient(to left, #8484844d, #848484b3), url(images/programer-desk-office.jpg);
     background: -moz-linear-gradient(to left, #8484844d, #848484b3), url(images/programer-desk-office.jpg);
     background-size: cover;
-    width: 100%;
+    width: 100vw;
     height: 100%;
     z-index: -999;
 }
@@ -84,7 +84,7 @@ img{
     text-transform: uppercase;
 }
 .objective p{
-    width: 45ch;
+    /* width: 45ch; */
     margin-block-start: 7%;
 
 }
