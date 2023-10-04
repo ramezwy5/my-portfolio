@@ -27,7 +27,7 @@ section:not(:last-of-type){
 span.logo{
     width: min(60px, 15%);
     aspect-ratio: 1;
-    background: url(images/logo.jpg) top center no-repeat;
+    background: url(images/logo.webp) top center no-repeat;
     background-size: cover;
     margin-right: 3rem;
 }
@@ -37,8 +37,8 @@ span.logo{
     position: fixed;
     top: 0;
     left: 0;
-    background: linear-gradient(to left, #8484844d, #848484b3), url(images/programer-desk-office.jpg);
-    background: -moz-linear-gradient(to left, #8484844d, #848484b3), url(images/programer-desk-office.jpg);
+    background: linear-gradient(to left, #8484844d, #848484b3), url(images/programer-desk-office.webp);
+    background: -moz-linear-gradient(to left, #8484844d, #848484b3), url(images/programer-desk-office.webp);
     background-size: cover;
     width: 100vw;
     height: 100%;
